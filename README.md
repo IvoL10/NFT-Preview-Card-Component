@@ -1,6 +1,6 @@
 # Frontend Mentor - NFT preview card component
 
-![Visualização do design para o desafio de codificação.](.NFT preview card component.png)
+![Visualização do design para o desafio de codificação.] (Frontend Mentor _ NFT-preview-card-component.png)
 
 Site: Frontend Mentor
 
